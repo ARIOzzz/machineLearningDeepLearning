@@ -102,11 +102,6 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 
 ### 学习小组
 
-> 微信打卡群，第一时间订阅更新，PPT，作业共享，学习笔记分享，加我微信时务必添加备注，备注格式为，昵称-学生-学校-研究方向 or 昵称-工作-公司-职位方向
-
-<img src="https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210306072233264.png" style="zoom:43%;" />
-
----
 
 ### 下载同时请顺便点个Star
 
