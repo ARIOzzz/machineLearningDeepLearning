@@ -97,12 +97,3 @@ https://delphi.cmu.edu/covidcast/survey-results/?date=20210221
 ##### <font size=3>抱歉，本人还未更新</font>
 
 
-
----
-
-### 学习小组
-
-
-### 下载同时请顺便点个Star
-
-![image-20210418222443314](https://ai360.oss-cn-beijing.aliyuncs.com/blog/image-20210418222443314.png)
